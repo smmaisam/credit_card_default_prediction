@@ -5,7 +5,8 @@ that contains information on Taiwanese credit card clients. The project aims to 
 
 Following Methodlogy has been adopted to complete this project:
 
-• Perform Exploratory Data Analysis (EDA) to gain deeper understanding and underlying patterns in the Data.
+-  Perform Exploratory Data Analysis (EDA) to gain deeper understanding and underlying patterns in the Data.
+
 • Correlation matrix to sense which features are most suitable for the Model as a whole.
 • Data Cleaning, Filtering and Transformations.
 • Feature Engineering to generate input for the Model.
